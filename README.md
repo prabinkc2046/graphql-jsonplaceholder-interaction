@@ -23,7 +23,7 @@ This project sets up a GraphQL server using Apollo Server and Express, providing
     completed
   }
 }
-
+```
 ### Retrieve all users:
 
 ```{
@@ -35,7 +35,7 @@ This project sets up a GraphQL server using Apollo Server and Express, providing
     website
   }
 }
-
+```
 ### Retrieve a specific user by ID:
 
 ```{
@@ -46,7 +46,7 @@ This project sets up a GraphQL server using Apollo Server and Express, providing
     website
   }
 }
-
+```
 ### Retrieve todos with their associated user information:
 
 ```{
@@ -60,7 +60,7 @@ This project sets up a GraphQL server using Apollo Server and Express, providing
     }
   }
 }
-
+```
 ### Retrieve all users and their todos:
 
 ```{
@@ -73,5 +73,5 @@ This project sets up a GraphQL server using Apollo Server and Express, providing
       id
    }
 }
-
+```
 
